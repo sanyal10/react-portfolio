@@ -78,3 +78,9 @@
 .po_item .content a:hover {
     text-decoration: none;
 }
+
+img{
+    width: 261px;
+    height: 300px;
+    object-fit: fill;
+}
